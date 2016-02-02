@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b04980b1f684c0b419e0fb2e8fbd7bb1
+timeCreated: 1453583802
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - downArrow: {fileID: 136934, guid: 7c1109a4380de4c4e8b83f607daa79d0, type: 2}
+  - upArrow: {fileID: 131158, guid: 3588b6830a862614983b21646610838c, type: 2}
+  - leftArrow: {fileID: 141482, guid: cfbb02a72c6fe4a43b47117121202c0a, type: 2}
+  - rightArrow: {fileID: 129312, guid: e1a7490d0d2b28648b27808b53c967a9, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
